@@ -1,0 +1,20 @@
+{
+  "name": "restoringjustice",
+  "version": "1.0.0",
+  "description": "Group 38 assigned a project to create an application for Restoring Justice with features: implementation of intake form for collection of data, track referrals, summary reports, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Ayala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.9",
+    "morgan": "^1.10.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
